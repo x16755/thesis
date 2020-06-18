@@ -1,0 +1,2 @@
+C:\Users\PACLab\Documents\Projects\Thesis\obj\Debug\Oculus.VR.Scripts.Editor.csprojAssemblyReference.cache
+C:\Users\PACLab\Documents\Projects\Thesis\obj\Debug\Oculus.VR.Scripts.Editor.csproj.CoreCompileInputs.cache
