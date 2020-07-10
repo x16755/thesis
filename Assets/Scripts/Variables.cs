@@ -12,6 +12,7 @@ public class Variables : MonoBehaviour { //This script holds the variables the o
     public InputField Participant;
     public InputField ArmLength;
     public InputField Shoulderheight;
+    public InputField Eyeheight;
 
     // These are what the other scripts reference.
     public int participant;
@@ -19,8 +20,9 @@ public class Variables : MonoBehaviour { //This script holds the variables the o
     public float shoulder;
     public int order;
     public int hand;
+    public float eye;
 
-    public string folder = "C:\\Users\\PACLab\\Documents\\VRData\\Lean\\";    
+    public string folder = "C:\\Users\\tyler\\Desktop\\Dissertation VR\\Data\\";    
 	
 	// Update is called once per frame
 	void Update ()
@@ -30,6 +32,7 @@ public class Variables : MonoBehaviour { //This script holds the variables the o
         order = ConditionOrder.value;
         arm = System.Convert.ToSingle(ArmLength.text);
         shoulder = System.Convert.ToSingle(Shoulderheight.text);
+        eye = System.Convert.ToSingle(Eyeheight.text);
     }
 }
 
