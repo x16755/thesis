@@ -298,5 +298,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DistanceZ: 0
-  Stimpos: 0.8
+  Stimpos: 0.9
+  angle: -45
   Shoulder: 0
+  DistanceY: 0

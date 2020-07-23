@@ -8,7 +8,7 @@ public class StartExperiment : MonoBehaviour
     public int order;
     void Awake()
     {
-        showPanels = GetComponent<ShowPanels>();       
+        showPanels = GetComponent<ShowPanels>();   
     }
 
 
